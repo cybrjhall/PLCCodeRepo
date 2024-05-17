@@ -1,5 +1,5 @@
 body {
-    background-image: url("/imgs/plcpanel.jpg"); /*plc-r.jpg*/
+    background-image: url("plcpanel.jpg"); /*plc-r.jpg*/
     background-color: white;
     background-size: cover; /* Adjust the background size to cover the entire viewport */
     background-position: center; /* Center the background image */
