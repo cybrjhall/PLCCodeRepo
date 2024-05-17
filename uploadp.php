@@ -7,8 +7,8 @@
 
     <title>PLC Code Repo</title>
 
-    <link rel="stylesheet" type="text/css" href="\css\styles.css">
-    <link rel="icon" href="/imgs/favicon.png" type="image/png">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link rel="icon" href="favicon.png" type="image/png">
 
 </head>
 
